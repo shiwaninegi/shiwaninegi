@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shiwaninegi
 - 👀 I’m interested in Machine learning projects
 - 🌱 I’m currently learning Fundamentals in Machine Learning
+- and data structures in C Programming
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I write and read Poetry
 
