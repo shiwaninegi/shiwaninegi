@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shiwaninegi
-- 👀 I’m interested in Machine learning projects
-- 🌱 I’m currently learning Fundamentals in Machine Learning
-- and data structures in C Programming
+- 👀 I’m interested in Machine learning, Deep Learning, and automation in AI development.
+- 🌱 I’m currently working on Machine Learning and Deep learning projects
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I write and read Poetry
 
